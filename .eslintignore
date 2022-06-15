@@ -1,0 +1,6 @@
+.vscode-test-web
+coverage
+lib
+dist
+preview
+node_modules
